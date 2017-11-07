@@ -1,0 +1,28 @@
+{
+  "name": "sequelizedburger",
+  "version": "1.0.0",
+  "description": "week 15 homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Conrad Harrison",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "fs": "0.0.1-security",
+    "loglevel": "^1.5.1",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.4.2",
+    "path": "^0.12.7",
+    "sequelize": "^4.22.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RadCon4"
+  }
+}

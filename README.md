@@ -1,5 +1,4 @@
-# Week-15--Burger-2-The-Sequel
-My Week 15 Homework
+# Eat-Da-Burger-2-The-Sequel
 
 Heroku Link:
 https://burger2-sequelize-ch.herokuapp.com/
